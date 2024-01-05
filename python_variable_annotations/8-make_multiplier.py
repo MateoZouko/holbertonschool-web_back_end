@@ -8,6 +8,7 @@ def make_multiplier(multiplier: float) -> typing.Callable[[float], float]:
 
 
     def multiplyFunction(x: float) -> float:
+        """Multiplies x and multiplier"""
         return x * multiplier
 
     return multiplyFunction
