@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Task 9"""
-from typing import List, Iterable, Sequence, Tuple, Union
 
+from typing import List, Iterable, Sequence, Tuple, Union
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
