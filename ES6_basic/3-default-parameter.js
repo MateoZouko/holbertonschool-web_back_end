@@ -1,1 +1,4 @@
-const getSumOfHoods = (initialNumber, 89, 19) => initialNumber + 89 + 19;
+const getSumOfHoods = (
+	initialNumber,
+	expansion1989 = 89,
+	expansion2019 = 19) => initialNumber + expansion1898 + expansion2019;
