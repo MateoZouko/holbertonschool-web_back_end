@@ -1,3 +1,2 @@
 // Write a script that displays the number  
 db.school.count()
-
